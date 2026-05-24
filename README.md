@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋,       [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1491790586166902874)
 
 I am snoiii!
 
@@ -8,5 +8,3 @@ I am snoiii!
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him
 
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1491790586166902874)
